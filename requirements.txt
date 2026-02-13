@@ -1,0 +1,5 @@
+py-clob-client
+exa-py
+google-generativeai
+python-telegram-bot
+python-dotenv
